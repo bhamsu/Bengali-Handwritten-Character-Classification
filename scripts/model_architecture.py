@@ -1,3 +1,5 @@
+# Copyright (C) All rights reserved to: https://github.com/theroyakash/AKHCRNet
+# The particular model is inspired from the above repository.
 
 """ 
 This respective modules is meant to design a 32 layers deep neural network based on tensorflow to correcly predict the bengali handwritten-characters. 
